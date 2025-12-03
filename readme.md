@@ -41,6 +41,9 @@ We faced challenges during deployment and image preprocessing, which we overcame
 8. **Solution 3: Private API + Custom Website**
    - Built a private API to handle inference requests.
    - Developed a website from scratch for stable deployment.
+  
+ 🔗 Gradio Space: Try it online https://lnkd.in/eRHG7Q2s
+ 🔗 Web App: Digits Prediction UI https://lnkd.in/eMCikyp9
 
 ---
 
